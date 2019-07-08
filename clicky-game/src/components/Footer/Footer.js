@@ -12,7 +12,7 @@ const Footer = props => (
                 <div className="footerWrapper">
                     <a id="footerContent" href="https://github.com/ArchonQ" target="_blank">
                         <h4 id="name">Brandon
-                        <img id="logo" src={logo} alt="Github's Logo" /> Solis
+                        <img id="logo" src={logo} alt="Github's Logo" /> Quezada
                     </h4>
                     </a>
                 </div>
